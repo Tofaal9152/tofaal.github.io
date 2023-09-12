@@ -1,86 +1,13 @@
-<!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+# Responsive Portfolio Website Alexa
+## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
+### Responsive Portfolio Website Alexa
 
-        <!--==================== UNICONS ====================-->
-        
-        
-        <!--==================== SWIPER CSS ====================-->
-        <link rel="stylesheet" href="">
-        
-        <!--==================== CSS ====================-->
-        <link rel="stylesheet" href="">
+- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
+- Smooth scrolling in each section.
+- Includes a light and dark mode.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-        <title>Responsive Portfolio Website</title>
-    </head>
-    <body>
-        <!--==================== HEADER ====================-->
-        <header class="header" id="header">
-            
-        </header>
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-        <!--==================== MAIN ====================-->
-        <main class="main">
-            <!--==================== HOME ====================-->
-            <section class="home section" id="home">
-                
-            </section>
-
-            <!--==================== ABOUT ====================-->
-            <section class="about section" id="about">
-                
-            </section>
-
-            <!--==================== SKILLS ====================-->
-            <section class="skills section" id="skills">
-
-            </section>
-
-            <!--==================== QUALIFICATION ====================-->
-            <section class="qualification section">
-
-            </section>
-
-            <!--==================== SERVICES ====================-->
-            <section class="services section" id="services">
-                
-            </section>
-
-            <!--==================== PORTFOLIO ====================-->
-            <section class="portfolio section" id="portfolio">
-                
-            </section>
-
-            <!--==================== PROJECT IN MIND ====================-->
-            <section class="project section">
-
-            </section>
-
-            <!--==================== TESTIMONIAL ====================-->
-            <section class="testimonial section">
-                
-            </section>
-
-            <!--==================== CONTACT ME ====================-->
-            <section class="contact section" id="contact">
-
-            </section>
-        </main>
-
-        <!--==================== FOOTER ====================-->
-        <footer class="footer">
-         
-        </footer>
-        
-        <!--==================== SCROLL TOP ====================-->
-        
-
-        <!--==================== SWIPER JS ====================-->
-        <script src=""></script>
-
-        <!--==================== MAIN JS ====================-->
-        <script src=""></script>
-    </body>
-</html>
+![preview img](/preview.png)
